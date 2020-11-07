@@ -1,0 +1,11 @@
+1.- Los prototipos en github lo suben (el enlace del repositorio en github)
+https://github.com/201811293/Prototipo
+
+2.- Servicios API publicados (el enlace me lo mandan)
+https://github.com/201811293/MCx-Project
+
+3.- Los estilos (la app en github)
+https://github.com/SantiagoVera/Gradle-1
+
+4.- Publicar la librería (Me lo mandan el enlace de la publicación)
+https://github.com/SantiagoVera/Gradle-1
